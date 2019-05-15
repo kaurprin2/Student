@@ -14,7 +14,7 @@ public class StudentTester {
     Student s1 = new Student();
     //s1.name="mantesh";//will work only if name is public.(1 step)
    // System.out.println(s1.name);
-  s1.setName("PRINCE");//(2 step)
+  s1.setName("pRINCE");//(2 step)
    System.out.println(s1.getName());//3
     Student s2 = new Student("priya");//4
      Student s3 = new Student("aesh");//5
