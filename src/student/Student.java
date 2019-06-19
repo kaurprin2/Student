@@ -6,7 +6,7 @@
 package student;
 
 /**
- *
+ *date:19/6/2019
  * @author Mundi
  */
 public class Student {
